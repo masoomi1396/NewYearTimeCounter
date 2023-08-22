@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    body{
+        background-image: url(../img/fabian-mardi-kVKz9qnJC-k-unsplash.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
