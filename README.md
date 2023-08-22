@@ -1,6 +1,6 @@
 # NewYearTimeCounter
 *😁 This is my project which shows how much time do you have until NEW YEAR*
-- [Demo Project](https://masoomi1396.github.io/newYearTimeCounter/)
+- [Demo Project](https://masoomi1396.github.io/NewYearTimeCounter/)
 - Developed by Amirmohammad Masoumi
 - Created - 2023-08-22
 - 🤖 Technologies Used - Html , Css , Tailwind , JS
